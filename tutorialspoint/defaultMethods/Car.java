@@ -1,4 +1,4 @@
-package defaultMethods;
+package tutorialspoint.defaultMethods;
 
 public class Car implements Vehicle, FourWheeler {
 

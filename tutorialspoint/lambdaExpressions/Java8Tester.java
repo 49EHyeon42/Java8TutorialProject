@@ -1,4 +1,4 @@
-package lambdaExpressions;
+package tutorialspoint.lambdaExpressions;
 
 public class Java8Tester {
 

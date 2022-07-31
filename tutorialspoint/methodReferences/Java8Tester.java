@@ -1,4 +1,4 @@
-package methodReferences;
+package tutorialspoint.methodReferences;
 
 import java.util.ArrayList;
 import java.util.List;

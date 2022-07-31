@@ -1,4 +1,4 @@
-package newDateTimeAPI;
+package tutorialspoint.newDateTimeAPI;
 
 import java.time.DayOfWeek;
 import java.time.Duration;

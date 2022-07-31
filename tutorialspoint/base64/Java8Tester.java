@@ -1,4 +1,4 @@
-package base64;
+package tutorialspoint.base64;
 
 import java.nio.charset.StandardCharsets;
 import java.util.Base64;

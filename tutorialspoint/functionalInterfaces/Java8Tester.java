@@ -1,4 +1,4 @@
-package functionalInterfaces;
+package tutorialspoint.functionalInterfaces;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,7 +1,7 @@
-package nashornJavaScript;
+package tutorialspoint.nashornJavaScript;
 
-import javax.script.ScriptEngineManager;
 import javax.script.ScriptEngine;
+import javax.script.ScriptEngineManager;
 import javax.script.ScriptException;
 
 // 자바스크립트 엔진 나즈혼 도입
